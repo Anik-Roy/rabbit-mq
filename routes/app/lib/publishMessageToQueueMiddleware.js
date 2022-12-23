@@ -12,12 +12,12 @@ async function storeMessageToQueueMiddleware(req, res) {
     {
       platform_user_id: '633fd8ea2dbcfe23c7fa63ef',
     },
-    {
-      platform_user_id: '630dce0ed5ee9f1651de4ac6',
-    },
-    {
-      platform_user_id: '633e96591da359080e0f1308',
-    },
+    // {
+    //   platform_user_id: '630dce0ed5ee9f1651de4ac6',
+    // },
+    // {
+    //   platform_user_id: '633e96591da359080e0f1308',
+    // },
   ];
 
   try {
